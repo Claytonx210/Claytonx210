@@ -94,6 +94,17 @@
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge" /></a>
 </p>
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
 ---
 
 ## 📽️ Quote I Live By
