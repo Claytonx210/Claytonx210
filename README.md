@@ -75,12 +75,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claytonx210&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claytonx210&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Claytonx210/Claytonx210/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
