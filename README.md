@@ -14,7 +14,6 @@
 - 🌱 I’m learning **Cloud Engineering, DevOps, and AI**
 - 👯 I’m looking to collaborate on **impactful tech communities**
 - 💬 Ask me about **Web Dev, APIs, or Linux**
-- ⚡ Fun fact: I break production... *only to fix it better* ⚒️
 
 ---
 
@@ -75,9 +74,9 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Claytonx210"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/ClaytonHandle"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge" /></a>
 </p>
 
 <!--📏LINE-->
@@ -90,16 +89,4 @@
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
----
-
-## 📽️ Quote I Live By
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Full-stack+developer+based+in+Earth;Always+learning+and+building+cool+things" />
-</p>
 
